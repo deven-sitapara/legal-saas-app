@@ -9,7 +9,7 @@ This document provides a concise overview of  web application, outlining its mod
 
 # Screenshots  
 
-![Screenshot 1](./legal-saas-app-github-header-image.png)
+![Screenshot 1](./legal-firm-software-dark-screenshot.png)
 
 
 
