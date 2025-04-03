@@ -75,7 +75,7 @@ The application is built using the following technologies:
 
 *   **Backend:** PHP, Laravel
 *   **Frontend:**  Livewire, FilamentPHP, Tailwind CSS
-*   **Database:** [Specify your database, e.g., MySQL, PostgreSQL]  (Add this)
+*   **Database:** PostgreSQL, Redis, Turso 
 
 ## Target Users
 
