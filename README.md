@@ -28,7 +28,7 @@ The application is designed to manage various processes related to property tran
 
 ## Banks Integration
 
-*   **Banks Authority:**  Bank can login to the application and manage their customers and transactions.
+*   **Banks Authorities:**  Banks can login to the application and manage their customers and transactions processed through legal procedures.
 
 
 ## Modules
