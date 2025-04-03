@@ -7,6 +7,12 @@ SaaS ERP for Law firm
 
 This document provides a concise overview of  web application, outlining its modules, their intended use, and the technology stack used.
 
+# Screenshots  
+
+![Screenshot 1](./legal-saas-app-github-header-image.png)
+
+
+
 ## Overview
 
 The application is designed to manage various processes related to property transactions and related services. It provides a centralized platform for tracking files, documents, and communications.
@@ -34,6 +40,14 @@ The application comprises the following modules:
 *   **Branches:** Manages branch information, including contact details.
 
 *   **Users (Admin Only):** Manages user accounts and permissions within the application.
+
+## Communication
+
+The application uses the following communication channels:
+
+*   **Email:**  Sends and receives emails from the application.
+*   **SMS:**  Sends and receives SMS from the application.
+*   **WhatsApp:**  Sends and receives WhatsApp messages from the application.
 
 ## Workflow
 
