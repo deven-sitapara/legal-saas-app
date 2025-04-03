@@ -11,11 +11,25 @@ This document provides a concise overview of  web application, outlining its mod
 
 ![Screenshot 1](./legal-firm-software-dark-screenshot.png)
 
-
-
 ## Overview
 
 The application is designed to manage various processes related to property transactions and related services. It provides a centralized platform for tracking files, documents, and communications.
+
+## Features
+
+*   **File Management:**  Manages all files and associated information.
+*   **Document Management:**  Manages all document-related activities.
+*   **Search Management:**  Manages various search types and associated information.
+*   **Balance Transfer Service:**  Manages balance transfer services, including tracking status and communications.
+*   **VR (Valuation Report):** Manages valuation reports, similar to the TSR module.
+*   **Companies (Admin/Manager Only):**  Manages company information, including contact details, fees, and document templates.
+*   **Branches:** Manages branch information, including contact details.
+*   **Users (Admin Only):** Manages user accounts across your organization branches and permissions within the application.
+
+## Banks Integration
+
+*   **Banks Authority:**  Bank can login to the application and manage their customers and transactions.
+
 
 ## Modules
 
@@ -40,6 +54,8 @@ The application comprises the following modules:
 *   **Branches:** Manages branch information, including contact details.
 
 *   **Users (Admin Only):** Manages user accounts and permissions within the application.
+
+
 
 ## Communication
 
